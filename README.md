@@ -1,0 +1,9 @@
+- [Home](pages/00-home/README.md)
+- Hands-on Exercises
+  - [SAP AI Core and AI Launchpad Setting Up](pages/01-ai-core-config/README.md)
+  - [SAP S/4HANA Cloud Configuration-If you SAP S/4HANA Cloud](pages/02-s4-config/README.md)
+  - [SAP S/4HANA Configuration-If you SAP S/4HANA PCE or OP](pages/06-s4-pce-config/README.md)
+  - [Application Deployment](pages/03-application-deploy/README.md)
+  - [SAP Build Work Zone Setting Up](pages/04-work-zone-config/README.md)
+  - [End to End Testing](pages/05-end-to-end-test/README.md)
+  - [Handson Tutorial For FullStack CAP Developement](pages/07-more-exercise-for-cap-fiori/README.md)

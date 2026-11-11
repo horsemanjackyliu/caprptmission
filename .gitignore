@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+gen/
+.claude/
+mta_archives/
+*.zip
+_assets/files/exercises.pdf
+.vscode/
+.mcp.json
