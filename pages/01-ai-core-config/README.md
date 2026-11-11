@@ -1,4 +1,4 @@
-# Set Up SAP AI Core and Deploy the RPT ts Model
+# Set Up SAP AI Core and Deploy the RPT TS Model
 
 Subscribe to SAP AI Launchpad and SAP AI Core using BTP Boosters, then deploy the **SAP RPT TS** model so it is available as a running inference endpoint for the CAP application.
 
