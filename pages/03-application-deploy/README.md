@@ -94,6 +94,7 @@ Clone the application to your local machine:
 ```bash
 git clone https://github.com/horsemanjackyliu/caprptdemands.git
 cd caprptdemands
+git checkout rpt-ts
 ```
 
 ### Step 2.2 — Review the MTA Deployment Descriptor
